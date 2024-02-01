@@ -4,9 +4,6 @@ A backend service that enables the user to handle his financial accounts by comu
 
 ## Table of contents 
 - [Project overview](#project-overview)
-- [Prerequisites](#prerequisites)
-- [Install dependencies](#install-dependencies)
-- [Start project](#start-project)
 - [Technologies and Services used](#technologies-and-services-used)
 ## Project overview
 - User Can login
